@@ -1,0 +1,49 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>caginagirdemir.github.io/blog/</title>
+        <link>http://example.org/</link>
+        <description>caginagirdemir.github.io/blog/</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 13 Jul 2021 01:41:08 &#43;0300</lastBuildDate>
+            <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Serial EEPROM Writer</title>
+    <link>http://example.org/posts/eeprom-writer/</link>
+    <pubDate>Tue, 13 Jul 2021 01:41:08 &#43;0300</pubDate><author>
+            <name>Cagin</name>
+            <uri>http://example.org/authors/cagin</uri></author><guid>http://example.org/posts/eeprom-writer/</guid>
+    <description><![CDATA[Remote Plug Tracing and Control System ProjectSince It was my Bachelor dissertion which can measure plug current (for estimate your electrcity bill) and control. I used to tell another post with details. The program is written for my undergraduate thesis. Works with ESP82266. It makes a wifi call and you can enters the password and saves wifi information to the device&rsquo;s eeprom via usb. Developed with C #.]]></description>
+</item><item>
+    <title>Certification</title>
+    <link>http://example.org/posts/certification/</link>
+    <pubDate>Wed, 05 May 2021 00:00:00 &#43;0000</pubDate><author>
+            <name>Cagin</name>
+            <uri>http://example.org/authors/cagin</uri></author><guid>http://example.org/posts/certification/</guid>
+    <description><![CDATA[IBM Python Essentials This certificate was about Python Essentials and essentialy Data Science. I learned Python Data Science Libraries.
+Embedded Systems It was a essential embedded system course based on C programming language. There was some essentials subjects such as if statement, loop statements. Also there was a little bit more complex structures like finite program structure.]]></description>
+</item><item>
+    <title>Joystick Kit</title>
+    <link>http://example.org/posts/joystick/</link>
+    <pubDate>Wed, 05 May 2021 00:00:00 &#43;0000</pubDate><author>
+            <name>Cagin</name>
+            <uri>http://example.org/authors/cagin</uri></author><guid>http://example.org/posts/joystick/</guid>
+    <description><![CDATA[Introduction Video   Kitlab Engineering Kitlab Engineering is a brand formed by me. I uses this brand name when I make a STEM Educational Kit.]]></description>
+</item><item>
+    <title>Robotic Kit</title>
+    <link>http://example.org/posts/robotic-kit/</link>
+    <pubDate>Wed, 05 May 2021 00:00:00 &#43;0000</pubDate><author>
+            <name>Cagin</name>
+            <uri>http://example.org/authors/cagin</uri></author><guid>http://example.org/posts/robotic-kit/</guid>
+    <description><![CDATA[Robotic Kit I designed a new robotic kit which include Arduino UNO, Bluetooth, 4 various sensor. This kit completely printable with 3d printer. Also, this kit include a tray system; so students can be made themselves design in tune with tray gaps.
+This kits consist of 11 part.
+Specifications  Arduino UNO R3 Settled Bluetooth Module Distance Sensor (Ultrasonic) Unlimited sensor connectable with settled breadboard Buzzer, RGB Led, Tempature and Humid Sensor  I was build just 28$]]></description>
+</item><item>
+    <title>TESOL Certification</title>
+    <link>http://example.org/posts/tesol-certification/</link>
+    <pubDate>Wed, 05 May 2021 00:00:00 &#43;0000</pubDate><author>
+            <name>Cagin</name>
+            <uri>http://example.org/authors/cagin</uri></author><guid>http://example.org/posts/tesol-certification/</guid>
+    <description><![CDATA[Tesol Certification"Tesol Certification Content I took this certification from Arizona State University.
+I took some courses as followings:
+ Foundational Principles Theories of Second Language Acquisition Lesson Design and Assessment Teaching Reading, Writing, and Grammar Teaching Listening, Speaking, and Pronunciation Technology-Enriched Teaching  I had abservation 10 hours and also teach 10 hours]]></description>
+</item></channel>
+</rss>

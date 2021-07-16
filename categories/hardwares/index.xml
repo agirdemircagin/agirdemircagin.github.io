@@ -1,0 +1,23 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>hardwares - Category - caginagirdemir.github.io/blog/</title>
+        <link>http://example.org/categories/hardwares/</link>
+        <description>hardwares - Category - caginagirdemir.github.io/blog/</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 05 May 2021 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://example.org/categories/hardwares/" rel="self" type="application/rss+xml" /><item>
+    <title>Joystick Kit</title>
+    <link>http://example.org/posts/joystick/</link>
+    <pubDate>Wed, 05 May 2021 00:00:00 &#43;0000</pubDate><author>
+            <name>Cagin</name>
+            <uri>http://example.org/authors/cagin</uri></author><guid>http://example.org/posts/joystick/</guid>
+    <description><![CDATA[Introduction Video   Kitlab Engineering Kitlab Engineering is a brand formed by me. I uses this brand name when I make a STEM Educational Kit.]]></description>
+</item><item>
+    <title>Robotic Kit</title>
+    <link>http://example.org/posts/robotic-kit/</link>
+    <pubDate>Wed, 05 May 2021 00:00:00 &#43;0000</pubDate><author>
+            <name>Cagin</name>
+            <uri>http://example.org/authors/cagin</uri></author><guid>http://example.org/posts/robotic-kit/</guid>
+    <description><![CDATA[Robotic Kit I designed a new robotic kit which include Arduino UNO, Bluetooth, 4 various sensor. This kit completely printable with 3d printer. Also, this kit include a tray system; so students can be made themselves design in tune with tray gaps.
+This kits consist of 11 part.
+Specifications  Arduino UNO R3 Settled Bluetooth Module Distance Sensor (Ultrasonic) Unlimited sensor connectable with settled breadboard Buzzer, RGB Led, Tempature and Humid Sensor  I was build just 28$]]></description>
+</item></channel>
+</rss>

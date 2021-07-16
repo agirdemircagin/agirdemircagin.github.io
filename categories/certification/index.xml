@@ -1,0 +1,24 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>certification - Category - caginagirdemir.github.io/blog/</title>
+        <link>http://example.org/categories/certification/</link>
+        <description>certification - Category - caginagirdemir.github.io/blog/</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 05 May 2021 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://example.org/categories/certification/" rel="self" type="application/rss+xml" /><item>
+    <title>Certification</title>
+    <link>http://example.org/posts/certification/</link>
+    <pubDate>Wed, 05 May 2021 00:00:00 &#43;0000</pubDate><author>
+            <name>Cagin</name>
+            <uri>http://example.org/authors/cagin</uri></author><guid>http://example.org/posts/certification/</guid>
+    <description><![CDATA[IBM Python Essentials This certificate was about Python Essentials and essentialy Data Science. I learned Python Data Science Libraries.
+Embedded Systems It was a essential embedded system course based on C programming language. There was some essentials subjects such as if statement, loop statements. Also there was a little bit more complex structures like finite program structure.]]></description>
+</item><item>
+    <title>TESOL Certification</title>
+    <link>http://example.org/posts/tesol-certification/</link>
+    <pubDate>Wed, 05 May 2021 00:00:00 &#43;0000</pubDate><author>
+            <name>Cagin</name>
+            <uri>http://example.org/authors/cagin</uri></author><guid>http://example.org/posts/tesol-certification/</guid>
+    <description><![CDATA[Tesol Certification"Tesol Certification Content I took this certification from Arizona State University.
+I took some courses as followings:
+ Foundational Principles Theories of Second Language Acquisition Lesson Design and Assessment Teaching Reading, Writing, and Grammar Teaching Listening, Speaking, and Pronunciation Technology-Enriched Teaching  I had abservation 10 hours and also teach 10 hours]]></description>
+</item></channel>
+</rss>
